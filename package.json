@@ -1,0 +1,9 @@
+{
+  "name": "hello_world_server",
+  "version": "1.0.0",
+  "description": "A simple hello_world HTTP server nodejs app",
+  "main": "server.js",
+  "repository": "git@github.com:tarak/git_ssh_deploy_test.git",
+  "author": "Tarak Blah <halbkarat@gmail.com>",
+  "license": "MIT"
+}
